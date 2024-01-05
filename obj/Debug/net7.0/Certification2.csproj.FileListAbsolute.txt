@@ -1,0 +1,14 @@
+C:\Certification2\bin\Debug\net7.0\Certification2.exe
+C:\Certification2\bin\Debug\net7.0\Certification2.deps.json
+C:\Certification2\bin\Debug\net7.0\Certification2.runtimeconfig.json
+C:\Certification2\bin\Debug\net7.0\Certification2.dll
+C:\Certification2\bin\Debug\net7.0\Certification2.pdb
+C:\Certification2\obj\Debug\net7.0\Certification2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Certification2\obj\Debug\net7.0\Certification2.AssemblyInfoInputs.cache
+C:\Certification2\obj\Debug\net7.0\Certification2.AssemblyInfo.cs
+C:\Certification2\obj\Debug\net7.0\Certification2.csproj.CoreCompileInputs.cache
+C:\Certification2\obj\Debug\net7.0\Certification2.dll
+C:\Certification2\obj\Debug\net7.0\refint\Certification2.dll
+C:\Certification2\obj\Debug\net7.0\Certification2.pdb
+C:\Certification2\obj\Debug\net7.0\Certification2.genruntimeconfig.cache
+C:\Certification2\obj\Debug\net7.0\ref\Certification2.dll
