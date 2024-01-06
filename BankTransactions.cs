@@ -28,6 +28,7 @@ namespace BankTransactions
                 }
                 else{
                     _Amount = value;
+                    
                 }
             }
         }
