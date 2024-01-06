@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\JSONSerialization\JSONSerialization\bin\Debug\JSONSerialization.pdb
+C:\Users\user\source\repos\JSONSerialization\JSONSerialization\obj\Debug\JSONSerialization.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\JSONSerialization\JSONSerialization\obj\Debug\JSONSerialization.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\JSONSerialization\JSONSerialization\obj\Debug\JSONSerialization.pdb
+C:\Users\user\source\repos\JSONSerialization\JSONSerialization\bin\Debug\JSONSerialization.exe
+C:\Users\user\source\repos\JSONSerialization\JSONSerialization\obj\Debug\JSONSerialization.exe
+C:\Users\user\source\repos\JSONSerialization\JSONSerialization\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\source\repos\JSONSerialization\JSONSerialization\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\source\repos\JSONSerialization\JSONSerialization\obj\Debug\JSONSerialization.csproj.CopyComplete

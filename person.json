@@ -1,0 +1,11 @@
+{
+    "Name": "Allen",
+    "Channel": "Global",
+    "Active": true,
+    "Age": 30,
+    "Employees": [
+        "John",
+        "Simba",
+        "Lydia"
+    ]
+}
